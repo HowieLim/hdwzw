@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/guestbook/index.html\" title=\"求种留言\">求种留言</a></li>");

@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/shuoming/index.html\" title=\"下载说明\">下载说明</a></li>");

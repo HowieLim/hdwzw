@@ -1,0 +1,1 @@
+document.write("<div style=\"height: 88px;width:598px;border: 1px dashed red;text-align: center;background-color: #FFF;\"><br><br>id_4广告位-600*90</div>")

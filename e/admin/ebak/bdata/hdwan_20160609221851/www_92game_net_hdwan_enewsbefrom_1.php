@@ -1,0 +1,33 @@
+<?php
+@include("../../inc/header.php");
+
+/*
+		SoftName : EmpireBak
+		Author   : wm_chief
+		Copyright: Powered by www.phome.com
+*/
+
+E_D("DROP TABLE IF EXISTS `www_92game_net_hdwan_enewsbefrom`;");
+E_C("CREATE TABLE `www_92game_net_hdwan_enewsbefrom` (
+  `befromid` smallint(5) unsigned NOT NULL AUTO_INCREMENT,
+  `sitename` char(60) NOT NULL DEFAULT '',
+  `siteurl` char(200) NOT NULL DEFAULT '',
+  PRIMARY KEY (`befromid`)
+) ENGINE=MyISAM AUTO_INCREMENT=15 DEFAULT CHARSET=utf8");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('1','¶¯×÷Æ¬','/action/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('2','¾çÇéÆ¬','/story/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('3','ÐüÒÉÆ¬','/suspense/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('4','Ï²¾çÆ¬','/comedy/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('5','°®ÇéÆ¬','/love/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('6','Õ½ÕùÆ¬','/war/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('7','¿Æ»ÃÆ¬','/science/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('8','ÔÖÄÑÆ¬','/disaster/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('9','¿Ö²ÀÆ¬','/terror/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('10','·¸×ïÆ¬','/crime/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('11','¶¯Âþ','/cartoon/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('12','¾ªã¤Æ¬','/thriller/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('13','Ææ»ÃÆ¬','/fantasy-film/');");
+E_D("replace into `www_92game_net_hdwan_enewsbefrom` values('14','Ã°ÏÕÆ¬','/adventure/');");
+
+@include("../../inc/footer.php");
+?>

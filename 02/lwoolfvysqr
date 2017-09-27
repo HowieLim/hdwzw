@@ -1,0 +1,4626 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="apple-itunes-app" content="app-id=342792525, app-argument=imdb:///title/tt4467202?src=mdot">
+        
+    
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "1FDEF6DPTVJTXG3DBB86";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-051542d0cfa6f645f8266601739de597._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginSecureHost = "https://secure.imdb.com";
+            </script>
+ 
+
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>Hero (2015) - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+            <link rel="canonical" href="http://www.imdb.com/title/tt4467202/" />
+            <meta property="og:url" content="http://www.imdb.com/title/tt4467202/" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/safari-favicon-517611381._CB303901978_.svg" mask rel="icon" sizes="any">
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" />
+        <meta name="theme-color" content="#000000" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" />
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152">            
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <meta property="pageId" content="tt4467202" />
+        <meta property="pageType" content="title" />
+        <meta property="subpageType" content="main" />
+
+
+        <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTQ0NzAyMTIyOF5BMl5BanBnXkFtZTgwMTE2MTY3NjE@._V1_UY1200_CR98,0,630,1200_AL_.jpg">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTQ0NzAyMTIyOF5BMl5BanBnXkFtZTgwMTE2MTY3NjE@._V1_UY1200_CR98,0,630,1200_AL_.jpg" />
+
+        <meta property='og:type' content="video.movie" />
+    <meta property='fb:app_id' content='115109575169727' />
+
+    <meta property='og:title' content="Hero (2015)" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Hero (2015) - IMDb" />
+        <meta name="description" content="Directed by Nikhil Advani.  With Suraj Pancholi, Athiya Shetty, Tigmanshu Dhulia, Aditya Pancholi. A boy and a girl find themselves stuck in a whirlpool of such intense love that they would do anything, go to any extent and face all odds for the one they love." />
+        <meta property="og:description" content="Directed by Nikhil Advani.  With Suraj Pancholi, Athiya Shetty, Tigmanshu Dhulia, Aditya Pancholi. A boy and a girl find themselves stuck in a whirlpool of such intense love that they would do anything, go to any extent and face all odds for the one they love." />
+        <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
+        <meta name="request_id" content="1FDEF6DPTVJTXG3DBB86" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-1d-c3-2xl-i-f751da41.us-east-1 -->
+
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-v2-3914931645._CB298432199_.css" />
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2827156349._CB318528195_.css">
+        </noscript>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm == null || window.generic == null || window.consoleLog == null)) {
+                    if (window.console && console.log) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-3652782989._CB318528046_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-2133976414._CB318528041_.css"><![endif]-->
+<span id="home_img_holder">
+<a href="/?ref_=nv_home"
+title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home"
+title="Home" >IMDb</a>
+  </span>
+</span>
+<form
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="hidden" name="ref_" value="nv_sr_fn" />
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1"
+>Movies</a>,
+                <a href="/chart/toptv/?ref_=nv_tp_tv250_2"
+>TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3"
+>Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1"
+>In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2"
+>Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3"
+>Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4"
+>Coming Soon</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5"
+>Release Calendar</a></li>
+                        <li><a href="/chart/top?ref_=nv_mv_250_6"
+>Top Rated Movies</a></li>
+                        <li><a href="/chart/moviemeter?ref_=nv_mv_mpm_7"
+>Most Popular Movies</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/chart/?ref_=nv_ch_cht_1"
+>Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_2"
+>Oscar Winners</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_3"
+>Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/imdbpicks/tv-releases/?ref_=nv_tvv_picks_1"
+>TV Picks</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2"
+>On Tonight</a></li>
+                        <li><a href="/chart/toptv/?ref_=nv_tvv_250_3"
+>Top Rated TV Shows</a></li>
+                        <li><a href="/chart/tvmeter?ref_=nv_tvv_mptv_4"
+>Most Popular TV Shows</a></li>
+                        <li><a href="/feature/watch-now-on-amazon/?ref_=nv_tvv_wn_5"
+>Watch Now on Amazon</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_6"
+>DVD & Blu-Ray</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_2"
+>X-Ray for Movies & TV</a></li>
+                        <li><a href="/imdbpicks/?ref_=nv_sf_picks_3"
+>IMDb Picks</a></li>
+                        <li><a href="/best-of/?ref_=nv_sf_bstof_4"
+>Best of 2015</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1"
+>Celebs</a>,
+                <a href="/awards-central/?ref_=nv_tp_awrd_2"
+>Events</a><br />
+                & <a href="/gallery/rg784964352?ref_=nv_tp_ph_3"
+>Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                            <li><a href="/search/name?birth_monthday=02-16&refine=birth_monthday&ref_=nv_cel_brn_1"
+>Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2"
+>Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3"
+>Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/gallery/rg784964352?ref_=nv_ph_ls_1"
+>Latest Stills</a></li>
+                        <li><a href="/gallery/rg1528338944?ref_=nv_ph_lp_2"
+>Latest Posters</a></li>
+                        <li><a href="/gallery/rg2465176320?ref_=nv_ph_lv_3"
+>Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/awards-central/?ref_=nv_ev_awrd_1"
+>Awards Central</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_2"
+>Sundance</a></li>
+                        <li><a href="/sxsw/?ref_=nv_ev_sxsw_3"
+>SXSW Film Festival</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_4"
+>Tribeca</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_5"
+>Cannes</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_6"
+>Comic-Con</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_7"
+>Emmy Awards</a></li>
+                        <li><a href="/venice/?ref_=nv_ev_venice_8"
+>Venice Film Festival</a></li>
+                        <li><a href="/toronto/?ref_=nv_ev_tff_9"
+>Toronto Film Festival</a></li>
+                        <li><a href="/event/all/?ref_=nv_ev_all_10"
+>All Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1"
+>News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2"
+>Community</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni59504979/?ref_=nv_nw_tn_1"
+> ‘Star Wars: Episode VIII’: Benicio Del Toro, Laura Dern Join Cast
+</a><br />
+                        <span class="time">22 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni59502476/?ref_=nv_nw_tn_2"
+> 'Deadpool' Smashes Box Office Records On Way to $260 Million Worldwide Opening
+</a><br />
+                        <span class="time">14 February 2016 5:38 PM, UTC</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni59507424/?ref_=nv_nw_tn_3"
+> Vanity Dead at 57; Prince Protege Known for ‘Nasty Girl’
+</a><br />
+                        <span class="time">12 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1"
+>Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2"
+>Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3"
+>TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4"
+>Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5"
+>Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/boards/?ref_=nv_cm_bd_1"
+>Message Boards</a></li>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2"
+>Contributor Zone</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_3"
+>Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0"
+>Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+            YOUR WATCHLIST
+    </h5>
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB306318084_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB306318127_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB306318332_.jpg"
+                }
+    ];
+    </script>
+</div>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB306318304_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+id="proLink" > <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._CB306318138_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB306318245_.png" />
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro &raquo;</strong></p>
+</div>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp"
+>Help</a>
+        </li>
+        <li class="social">
+
+    <a href="/offsite/?page-action=fol_fb&token=BCYrARoFAbINHrHaB4U40RWl5pIhoKMVEtfBGhQBUvxT5ydFiSLv1BkeeddUA4tL6Kd1GlG7vcvL%0D%0AvqrcVMaldjDZUxaM2duNBLVLNCgdVzXM-Hj3Rdk4eBbe1iw3Vc1_-1gHWBzDCwhM66QY3ZqDA0AE%0D%0AxDVkAOVzlba89P5w4I-dZ3uv0Fm9-2bmSHXrSa4BUkV3a-KRq8E8mB72SZx89OGRzw%0D%0A&ref_=tt_nv_fol_fb"
+title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
+</a>
+    <a href="/offsite/?page-action=fol_tw&token=BCYvc8hErl75VABjSKAMXtelTrCjd_7F3KbKYX23Dj2wpLNgVOBaNIFo4Es9R1EHWv4Gy48eQzWT%0D%0AlbH6t0dCwihxqRJjGtR7ex3j9y0bGZlQOpWNp2ZpErKMoQXFWKI0u2yJt8Ifb_LbWFCZjbpptiCx%0D%0AxreZRc3aUwZO0xiBcNmfU-emny1pcpTU1-tLxq1gdq6fcvB8cutcvRQAQY-RfJFOhA%0D%0A&ref_=tt_nv_fol_tw"
+title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
+</a>
+    <a href="/offsite/?page-action=fol_inst&token=BCYppneJ8DINLKZc7htjadzIh_0z1FM9qMzUlHfSSJByNjkPOeU7j6BiN25_O1iIOHkTsbYLYA4v%0D%0AuW310DdOB6lt9-HAoQ1qi8SsFuMuwchkwNdniXF8Wbf6ZlHMjIZ6R69ALMJUZSZFNuO6HwF1gOd9%0D%0ATD2RXmq6X3f6hsVr43PNUhfm_IjxIQzozGfCzgnuwNx4IgZUjClgSEXT8qhlW3gYPg%0D%0A&ref_=tt_nv_fol_inst"
+title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
+</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+
+        <li class="css_nav_menu" id="navUserMenu">
+            <p class="navCategory singleLine">
+                <a href="/register/login?ref_=nv_usr_lgin_1"
+rel="login" id="nblogin" >Login</a>
+            </p>
+            <span class="downArrow"></span>
+            <div class="sub_nav">
+                <div class="subNavListContainer">
+                    <br />
+                    <ul>
+                        <li>
+                            <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2"
+>Register</a>
+                        </li>
+                        <li>
+                            <a href="/register/login?ref_=nv_usr_lgin_3"
+rel="login" id="nblogin" >Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+
+                    <div id="pagecontent" class="pagecontent" itemscope itemtype="http://schema.org/Movie">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
+
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+        
+	
+	<!-- no content received for slot: navboard -->
+	
+
+
+    
+    
+    
+
+    
+    
+    
+
+<div id="content-2-wide" class="flatland">
+    <div id="main_top" class="main">
+
+    
+    
+    
+
+
+    
+    
+    
+
+            <div class="title-overview">
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleOverviewWidget_started');
+    }
+  </script>
+        <div id="title-overview-widget" class="heroic-overview">
+            <div class="message_box">
+                <div id="star-ratings-widget-error" class="hidden error">
+                    <h2>There was an error trying to load your rating for this title.</h2>
+                    <p>Some parts of this page won't work property. Please reload or try later.</p>
+                </div>
+            </div>
+            <div class="vital">                
+      <div id="quicklinksBar" class="subnav">
+  <div id="quicklinksMainSection">
+         <a href="/title/tt4467202/fullcredits?ref_=tt_ql_1"
+class="quicklink" >FULL CAST AND CREW</a> <span class="ghost">|</span>
+         <a href="/title/tt4467202/trivia?ref_=tt_ql_2"
+class="quicklink" >TRIVIA</a> <span class="ghost">|</span>
+         <a href="/title/tt4467202/reviews?ref_=tt_ql_3"
+class="quicklink" >USER REVIEWS</a> <span class="ghost">|</span>
+      <a href="http://pro.imdb.com/title/tt4467202?rf=cons_tt_contact&ref_=cons_tt_contact"
+class="quicklink" >IMDbPro</a>
+        <span class="ghost">|</span>
+        <span class="show_more quicklink">
+            MORE<span class="titleOverviewSprite quicklinksArrowUp"></span>
+        </span>
+        <span class="show_less quicklink" style="display:none">
+           LESS<span class="titleOverviewSprite quicklinksArrowDown"></span>
+        </span>
+  </div>
+
+    <span class="titleOverviewShareButton launch-share-popover quicklink">SHARE</span>
+    <div id="share-popover">
+        <a class="close-popover" href="#">X</a>
+        <h4>Share</h4>
+        
+    
+    
+    <a onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4467202%2F%3Fref_%3Dext_shr_fb_tt&quot;, 'newWindow', 'width=626,height=436'); return false;"
+       href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4467202%2F%3Fref_%3Dext_shr_fb_tt"
+       title="Share on Facebook"
+       class="facebook"
+       target="_blank"><div class="option facebook">
+                            <span class="titlePageSprite share_facebook"></span>
+                            <div>Facebook</div>
+                        </div></a>
+    
+    
+    <a onclick="window.open(&quot;http://twitter.com/intent/tweet?text=Hero%20(11%20September%202015%20(India))%20-%20imdb.com%2Ftitle%2Ftt4467202%2F%3Fref_%3Dext_shr_tw_tt&quot;, 'newWindow', 'width=815,height=436'); return false;"
+       href="http://twitter.com/intent/tweet?text=Hero%20(11%20September%202015%20(India))%20-%20imdb.com%2Ftitle%2Ftt4467202%2F%3Fref_%3Dext_shr_tw_tt"
+       title="Share on Twitter"
+       class="twitter"
+       target="_blank"><div class="option twitter">
+                            <span class="titlePageSprite share_twitter"></span>
+                            <div>Twitter</div>
+                        </div></a>
+    <a href="mailto:?subject=IMDb%3A%20Hero%20(11%20September%202015%20(India))&body=IMDb%3A%20Hero%20(11%20September%202015%20(India))%0AA%20boy%20and%20a%20girl%20find%20themselves%20stuck%20in%20a%20whirlpool%20of%20such%20intense%20love%20that%20they%20would%20do%20anything%2C%20go%20to%20any%20extent%20and%20face%20all%20odds%20for%20the%20one%20they%20love.%0Ahttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4467202%2F%3Fref_%3Dext_shr_eml_tt" 
+       title="Share by e-mail"
+       class=""><div class='option email'>
+                    <span class='titlePageSprite share_email'></span>
+                    <div>E-mail</div>
+                    </div></a>
+     <a href="#" class="open-checkin-popover">
+        <div class="option checkin">
+            <span class="titlePageSprite share_checkin"></span>
+            <div>Check in</div>
+        </div>
+     </a>     
+            
+    </div>
+    
+        <div id="share-checkin">
+<div class="add_to_checkins" data-const="tt4467202" data-lcn="title-maindetails">
+<span class="btn2_wrapper"><a onclick='' class="btn2 large btn2_text_on disabled checkins_action_btn"><span class="btn2_glyph">0</span><span class="btn2_text">Check in</span></a></span>    <div class="popup checkin-dialog">
+        <a class="small disabled close btn">X</a>
+        <span class="beta">Beta</span>
+        <span class="title">I'm Watching This!</span>
+        <div class="body">
+            <div class="info">Keep track of everything you watch; tell your friends.
+            </div>
+            <div class="small message_box">
+                <div class="hidden error"><h2>Error</h2> Please try again!</div>
+                <div class="hidden success"><h2>Added to Your Check-Ins.</h2> <a href="/list/checkins">View</a></div>
+            </div>
+            <textarea data-msg="Enter a comment..."></textarea>
+            <div class="share">
+                <button class="large primary btn"><span>Check in</span></button>
+<!--
+                    Check-ins are more fun when<br>
+                    you <a href="/register/sharing">enable Facebook sharing</a>!
+-->
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="49e6c" value="da29">
+</div>
+        </div>
+
+   <div class="quicklinkSection" id="full_subnav" style="display:none">           
+               <div class="quicklinkSectionColumn">
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">DETAILS</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/fullcredits?ref_=tt_ql_dt_1"
+class="quicklink" >Full Cast and Crew</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/releaseinfo?ref_=tt_ql_dt_2"
+class="quicklink" >Release Dates</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/officialsites?ref_=tt_ql_dt_3"
+class="quicklink" >Official Sites</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/business?ref_=tt_ql_dt_4"
+class="quicklink quicklinkGray" >Box Office/Business</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/companycredits?ref_=tt_ql_dt_5"
+class="quicklink" >Company Credits</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/locations?ref_=tt_ql_dt_6"
+class="quicklink quicklinkGray" >Filming Locations</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/technical?ref_=tt_ql_dt_7"
+class="quicklink" >Technical Specs</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/literature?ref_=tt_ql_dt_8"
+class="quicklink quicklinkGray" >Literature</a>                </div>
+    </div>
+               </div>
+               <div class="quicklinkSectionColumn">
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">STORYLINE</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/taglines?ref_=tt_ql_stry_1"
+class="quicklink quicklinkGray" >Taglines</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/plotsummary?ref_=tt_ql_stry_2"
+class="quicklink" >Plot Summary</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/synopsis?ref_=tt_ql_stry_3"
+class="quicklink quicklinkGray" >Synopsis</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/keywords?ref_=tt_ql_stry_4"
+class="quicklink" >Plot Keywords</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/parentalguide?ref_=tt_ql_stry_5"
+class="quicklink quicklinkGray" >Parents Guide</a>                </div>
+    </div>
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">RELATED ITEMS</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/news?ref_=tt_ql_rel_1"
+class="quicklink" >NewsDesk</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/externalsites?ref_=tt_ql_rel_2"
+class="quicklink" >External Sites</a>                </div>
+    </div>
+               </div>
+               <div class="quicklinkSectionColumn">
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">OPINION</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/awards?ref_=tt_ql_op_1"
+class="quicklink" >Awards</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/faq?ref_=tt_ql_op_2"
+class="quicklink quicklinkGray" >FAQ</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/reviews?ref_=tt_ql_op_3"
+class="quicklink" >User Reviews</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/ratings?ref_=tt_ql_op_4"
+class="quicklink" >User Ratings</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/externalreviews?ref_=tt_ql_op_5"
+class="quicklink" >External Reviews</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/criticreviews?ref_=tt_ql_op_6"
+class="quicklink quicklinkGray" >Metacritic Reviews</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/board/?ref_=tt_ql_op_7"
+class="quicklink" >Message Board</a>                </div>
+    </div>
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">PHOTO & VIDEO</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/mediaindex?ref_=tt_ql_pv_1"
+class="quicklink" >Photo Gallery</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/videogallery?ref_=tt_ql_pv_2"
+class="quicklink" >Trailers and Videos</a>                </div>
+    </div>
+               </div>
+               <div class="quicklinkSectionColumn">
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">DID YOU KNOW?</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/trivia?ref_=tt_ql_trv_1"
+class="quicklink" >Trivia</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/goofs?ref_=tt_ql_trv_2"
+class="quicklink quicklinkGray" >Goofs</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/crazycredits?ref_=tt_ql_trv_3"
+class="quicklink quicklinkGray" >Crazy Credits</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/quotes?ref_=tt_ql_trv_4"
+class="quicklink quicklinkGray" >Quotes</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/alternateversions?ref_=tt_ql_trv_5"
+class="quicklink quicklinkGray" >Alternate Versions</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/movieconnections?ref_=tt_ql_trv_6"
+class="quicklink quicklinkGray" >Connections</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt4467202/soundtrack?ref_=tt_ql_trv_7"
+class="quicklink" >Soundtracks</a>                </div>
+    </div>
+               </div>
+   </div>
+      </div>  
+         
+                <div class="title_block">
+                    <div class="title_bar_wrapper">
+
+    <div class="ratings_wrapper">
+        <div class="imdbRating" itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating">
+                <div class="ratingValue">
+<strong title="3.7 based on 1,458 user ratings"><span itemprop="ratingValue">3.7</span></strong><span class="grey">/</span><span class="grey" itemprop="bestRating">10</span>                </div>
+                <a href="/title/tt4467202/ratings?ref_=tt_ov_rt"
+><span class="small" itemprop="ratingCount">1,458</span></a>
+                    <div class="hiddenImportant">
+                            <span itemprop="reviewCount">17 user</span>
+                            <span itemprop="reviewCount">19 critic</span>
+                    </div>
+        </div>
+  <div id="star-rating-widget" class="star-rating-widget" data-tconst="tt4467202" data-rating="0" data-user="" data-auth="" data-tracking-tag="title-maindetails">
+    <div class="star-rating-button">
+      <button>
+        <span class="star-rating-star no-rating"></span>
+            <span class="star-rating-text">Rate This</span>
+      </button>
+    </div>
+  </div>
+    </div>
+    <div class="titleBar">
+        <div class="primary_ribbon">
+            <div class="ribbonize" data-tconst="tt4467202" data-caller-name="title"></div>
+            <div class="wlb_dropdown_btn" data-tconst="tt4467202" data-size="large" data-caller-name="title" data-type="primary"></div>
+            <div class="wlb_dropdown_list" style="display:none"></div>
+        </div>
+
+        <div class="title_wrapper">
+<h1 itemprop="name" class="">Hero&nbsp;<span id="titleYear">(<a href="/year/2015/?ref_=tt_ov_inf"
+>2015</a>)</span>            </h1>
+            <div class="subtext">
+                    <time itemprop="duration" datetime="PT145M">
+                        2h 25min
+                    </time>
+<span class="ghost">|</span>
+<a href="/genre/Action?ref_=tt_ov_inf"
+><span class="itemprop" itemprop="genre">Action</span></a>, 
+<a href="/genre/Drama?ref_=tt_ov_inf"
+><span class="itemprop" itemprop="genre">Drama</span></a>, 
+<a href="/genre/Romance?ref_=tt_ov_inf"
+><span class="itemprop" itemprop="genre">Romance</span></a>
+<span class="ghost">|</span>
+<a href="/title/tt4467202/releaseinfo?ref_=tt_ov_inf"
+title="See more release dates" >11 September 2015 (India)
+<meta itemprop="datePublished" content="2015-09-11" />
+</a>            </div>
+        </div>
+    </div>
+                    </div>
+                </div>
+
+
+                
+                
+                    <div class="slate_wrapper">
+    <div class="poster">
+<a href="/media/rm3466456832/tt4467202?ref_=tt_ov_i"
+> <img alt="Hero Poster" title="Hero Poster"
+src="http://ia.media-imdb.com/images/M/MV5BMTQ0NzAyMTIyOF5BMl5BanBnXkFtZTgwMTE2MTY3NjE@._V1_UY268_CR1,0,182,268_AL_.jpg"
+itemprop="image" />
+</a>    </div>
+    <div class="slate">
+<a href="/video/imdb/vi1445835545?ref_=tt_ov_vi"
+class="slate_button prevent-ad-overlay video-colorbox" data-type='recommends' data-tconst='tt4467202' data-video='videoSlate.getVideoId()' data-context='imdb' itemprop='trailer' data-refsuffix='tt_ov_vi'> <img alt="Trailer"
+title="Trailer"
+src="http://ia.media-imdb.com/images/M/MV5BMjIxOTA1Mjk0M15BMl5BanBnXkFtZTgwOTk5MTY3NjE@._V1_UX477_CR0,0,477,268_AL_.jpg"
+itemprop="image" />
+<div class="slate_fade_top"></div>
+<div class="slate_fade_bottom"></div>
+</a>        <div class="caption"> 
+            <div style="float: left;">2:51 <span class="ghost">|</span> Trailer</div>
+                <div style="float: right;">        <a href="/title/tt4467202/videogallery?ref_=tt_ov_vi_sm"
+>1 VIDEO</a>
+</div>
+            <div style="clear: both;"></div>
+        </div>
+    </div>
+                    </div>
+            </div>
+
+    
+    
+    
+    <div class="plot_summary_wrapper">
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitlePlotAndCreditSummaryWidget_started');
+    }
+  </script>
+    <div class="plot_summary ">
+            <div class="summary_text" itemprop="description">
+                    A boy and a girl find themselves stuck in a whirlpool of such intense love that they would do anything, go to any extent and face all odds for the one they love.
+            </div>
+        
+    <div class="credit_summary_item">
+        <h4 class="inline">Director:</h4>
+            <span itemprop="director" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0012541?ref_=tt_ov_dr"
+itemprop='url'><span class="itemprop" itemprop="name">Nikhil Advani</span></a>            </span>
+    </div>
+    <div class="credit_summary_item">
+        <h4 class="inline">Writers:</h4>
+            <span itemprop="creator" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0007131?ref_=tt_ov_wr"
+itemprop='url'><span class="itemprop" itemprop="name">Subhash Ghai</span></a> (original story),             </span>
+            <span itemprop="creator" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0012541?ref_=tt_ov_wr"
+itemprop='url'><span class="itemprop" itemprop="name">Nikhil Advani</span></a> (screenplay)            </span>
+            <span class="ghost">|</span>
+<a href="fullcredits?ref_=tt_ov_wr#writers"
+>2 more credits</a>&nbsp;&raquo;
+    </div>
+    <div class="credit_summary_item">
+        <h4 class="inline">Stars:</h4>
+            <span itemprop="actors" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm4808460?ref_=tt_ov_st_sm"
+itemprop='url'><span class="itemprop" itemprop="name">Suraj Pancholi</span></a>,             </span>
+            <span itemprop="actors" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm7508187?ref_=tt_ov_st_sm"
+itemprop='url'><span class="itemprop" itemprop="name">Athiya Shetty</span></a>,             </span>
+            <span itemprop="actors" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0223606?ref_=tt_ov_st_sm"
+itemprop='url'><span class="itemprop" itemprop="name">Tigmanshu Dhulia</span></a>            </span>
+            <span class="ghost">|</span>
+<a href="fullcredits?ref_=tt_ov_st_sm"
+>See full cast & crew</a>&nbsp;&raquo;
+    </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitlePlotAndCreditSummaryWidget_finished');
+    }
+  </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleReviewsAndPopularityWidget_started');
+    }
+  </script>
+      <div class="titleReviewBar ">           
+           
+    <div class="titleReviewBarItem titleReviewbarItemBorder">
+        <div>
+        Reviews
+        </div>
+        <div>
+            <span class="subText">
+                   <a href="reviews?ref_=tt_ov_rt"
+>17 user</a>                   
+                       <span class="ghostText">|</span>
+                   <a href="externalreviews?ref_=tt_ov_rt"
+>19 critic</a>
+             </span>
+        </div>
+    </div>
+
+      </div>              
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleReviewsAndPopularityWidget_finished');
+    }
+  </script>
+    </div>
+        </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleOverviewWidget_finished');
+    }
+  </script>
+            </div> 
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+
+    </div> 
+
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("af");
+    }
+</script>
+
+    <div id="sidebar">
+
+	
+	<!-- no content received for slot: top_rhs -->
+	
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+
+
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+    
+    
+        <a name="slot_right-3"></a>
+        <div class="mini-article">
+        
+    
+        
+                                
+
+    
+            <script type="text/javascript">if(typeof uet === 'function'){uet('bb','NinjaWidget',{wb:1});}</script>
+                                
+
+                    
+    
+        <span class="ab_widget">
+        
+    
+
+    <div class="ab_ninja">
+<span class="widget_header"> <span class="oneline"> <a href="http://www.imdb.com/awards-central/baftas-red-carpet-photos-2016?ref_=tt_ecw_bafta_ph_pr_hd&pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2408436002&pf_rd_r=1FDEF6DPTVJTXG3DBB86&pf_rd_s=right-3&pf_rd_t=15021&pf_rd_i=tt4467202" > <h3>2016 BAFTA Awards: Red Carpet Photos</h3> </a> </span> </span> <div class="widget_content no_inline_blurb"> <div class="widget_nested"> <div class="ninja_image_pack"> <div class="ninja_center"> <div class="ninja_image first_image last_image" style="width:307px;height:auto;" > <div style="width:307px;height:auto;margin:0 auto;"> <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/baftas-red-carpet-photos-2016?imageid=rm3200522752&ref_=tt_ecw_bafta_ph_pr_i_1&pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2408436002&pf_rd_r=1FDEF6DPTVJTXG3DBB86&pf_rd_s=right-3&pf_rd_t=15021&pf_rd_i=tt4467202" > <img itemprop="image" class="pri_image" title="Sacha Baron Cohen and Isla Fisher at event of The EE British Academy Film Awards (2016)" alt="Sacha Baron Cohen and Isla Fisher at event of The EE British Academy Film Awards (2016)" src="http://ia.media-imdb.com/images/M/MV5BMjIxNjY0Njc5Ml5BMl5BanBnXkFtZTgwNzAxMjIwODE@._V1_SX307_CR0,0,307,230_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMjIxNjY0Njc5Ml5BMl5BanBnXkFtZTgwNzAxMjIwODE@._V1_SX307_CR0,0,307,230_AL_UY460_UX614_AL_.jpg" /> </a> </div> </div> </div> </div> </div> </div> </div> </div> <p class="blurb">Check out all the stars and honorees on the BAFTAs Red Carpet</p> <p class="seemore"><a href="http://www.imdb.com/awards-central/baftas-red-carpet-photos-2016?ref_=tt_ecw_bafta_ph_pr_sm&pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2408436002&pf_rd_r=1FDEF6DPTVJTXG3DBB86&pf_rd_s=right-3&pf_rd_t=15021&pf_rd_i=tt4467202" class="position_bottom supplemental" >See the full gallery</a></p>    </div>
+    
+
+                        
+        </span>
+
+
+
+            <script type="text/javascript">
+                if(typeof uex === 'function'){uex('ld','NinjaWidget',{wb:1});}
+            </script>
+        
+
+
+
+
+        </div>
+    
+        
+  <div class="aux-content-widget-2"> 
+    <div class="social">     
+  <script type="text/javascript">if (uet) { uet('bb', 'facebook_like_iframe', {wb: 1}); }</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/title/tt4467202/"
+      width=280
+      height=65></iframe>
+  </div>
+    </div>
+  </div>
+        
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "RelatedNewsWidgetRHS", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_RelatedNewsWidgetRHS_started');
+    }
+  </script>
+
+      <div class="mini-article" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt4467202/news?ref_=tt_nwr_1#ni59395079"
+>‘Bajirao Mastani’ Dominates Filmfare Awards</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  18 January 2016 4:20 PM, +08:00
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0052791?ref_=tt_nwr_1"
+>Variety - Film News</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item even" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt4467202/news?ref_=tt_nwr_2#ni59386146"
+>Reflections 2015: Best Songs of the Year</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  15 January 2016 3:30 PM, +08:00
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000309?ref_=tt_nwr_2"
+>Bollyspice</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt4467202/news?ref_=tt_nwr_3#ni59368550"
+>Reflections 2015: Bollywood Razzies of 2015</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  11 January 2016 7:01 PM, +08:00
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000309?ref_=tt_nwr_3"
+>Bollyspice</a>
+                                </span>
+                        </small>
+                    </div>
+       
+            <div class="see-more">
+                <a href="/title/tt4467202/news?ref_=tt_nwr_sm"
+>See all 56 related articles</a>&nbsp;&raquo;
+            </div>
+
+      </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_RelatedNewsWidgetRHS_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "RelatedNewsWidgetRHS", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "RelatedNewsWidgetRHS", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: middle_rhs -->
+	
+
+
+    
+    
+    
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "RelatedListsWidget", {wb: 1});
+    }
+</script>
+        <div class="mini-article">
+            <div id="relatedListsWidget">
+                <div class="rightcornerlink">
+                    <a href="/list/create?ref_=tt_rls"
+>Create a list</a>&nbsp;&raquo;
+                </div>
+                <h3>User Lists</h3>
+                <p>Related lists from IMDb users</p>
+
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls003774755?ref_=tt_rls_1"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls003774755?ref_=tt_rls_1"
+>first day first show</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 155 titles
+            <br />created 13&nbsp;Sep&nbsp;2011
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls009083440?ref_=tt_rls_2"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ0NzAyMTIyOF5BMl5BanBnXkFtZTgwMTE2MTY3NjE@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls009083440?ref_=tt_rls_2"
+>Filmfare Best Debut - Male</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 24 titles
+            <br />created 05&nbsp;Jun&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls073388145?ref_=tt_rls_3"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTY2MDQxNzkzNF5BMl5BanBnXkFtZTgwMDM4MTU0MzE@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls073388145?ref_=tt_rls_3"
+>Hnd Watched 2015</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 44 titles
+            <br />created 01&nbsp;Jan&nbsp;2015
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls073693904?ref_=tt_rls_4"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BNDkxMjZiYjYtZjZkZi00M2ZiLWE2MjMtNDc2NDQzZDNmY2M2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls073693904?ref_=tt_rls_4"
+>bollywood 2015</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 21 titles
+            <br />created 05&nbsp;Jan&nbsp;2015
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls074113349?ref_=tt_rls_5"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BNzQ4Njg3Mjg5Nl5BMl5BanBnXkFtZTgwODE5MDg1NjE@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls074113349?ref_=tt_rls_5"
+>2015 Bollywood Movies</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 48 titles
+            <br />created 7&nbsp;months&nbsp;ago
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+                <div class="see-more">
+                    <a href="/lists/tt4467202?ref_=tt_rls_sm"
+>See all related lists</a>&nbsp;&raquo;
+                </div>
+            </div>
+        </div>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "RelatedListsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "RelatedListsWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: btf_rhs1 -->
+	
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "ConnectWidget", {wb: 1});
+    }
+</script>
+    <div class="mini-article">
+        <h3>Connect with IMDb</h3>
+        <div id="facebookWrapper">
+            <iframe
+                scrolling="no"
+                frameborder="0"
+                id="facebookIframe"
+                allowTransparency="true"></iframe>
+        </div>
+        <hr>
+        <iframe allowtransparency="true"
+            frameborder="0"
+            role="presentation"
+            scrolling="no"
+            id="twitterIframe"></iframe>
+    </div>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "ConnectWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "ConnectWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+
+  
+      
+    <div class="mini-article">
+        <div id="ratingWidget">
+            <h3>Share this Rating</h3>
+            <p>
+                Title:
+                <strong>Hero</strong>
+                (2015)
+            </p>
+            <span class="imdbRatingPlugin imdbRatingStyle1" data-user="" data-title="tt4467202" data-style="t1">
+<a href="/title/tt4467202/?ref_=tt_plg_rt"
+> <img alt="Hero (2015) on IMDb"
+src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473254._CB306318085_.png">
+</a>                <span class="rating">3.7<span class="ofTen">/10</span></span>                
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_star_22x21-2889147855._CB306318215_.png" class="star">
+            </span>
+            <p>Want to share IMDb's rating on your own site? Use the HTML below.</p>
+            <div id="ratingPluginHTML" class="hidden">
+                <div class="message_box small">
+                    <div class="error">
+                        <p>
+                        You must be a registered user to use the IMDb rating plugin.
+                        </p>
+                        <a href="/register/login?ref_=tt_plg_rt"
+class="cboxElement" rel='login'>Login</a>
+                    </div>
+                </div>
+            </div>
+            <div id="ratingWidgetLinks">
+                <span class="titlePageSprite arrows show"></span>
+                <a href="/plugins?titleId=tt4467202&ref_=tt_plg_rt"
+id="toggleRatingPluginHTML" itemprop='url' >Show HTML</a>
+                <a href="/plugins?titleId=tt4467202&ref_=tt_plg_rt"
+itemprop='url'>View more styles</a>
+            </div>
+        </div>
+    </div>
+
+
+    
+    
+    
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleMainDetailsRelatedPolls", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMainDetailsRelatedPolls_started');
+    }
+  </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMainDetailsRelatedPolls_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleMainDetailsRelatedPolls", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleMainDetailsRelatedPolls", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: bottom_rhs -->
+	
+
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: btf_rhs2 -->
+	
+
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    </div> 
+    <div id="main_bottom" class="main">
+
+    
+    
+    
+
+                    
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleAwardsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsWidget_started');
+    }
+  </script>
+      <div class="article highlighted" id="titleAwardsRanks">
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleAwardsSummaryWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsSummaryWidget_started');
+    }
+  </script>
+    <span itemprop="awards">
+      1 win.
+    </span>
+    <span class="see-more inline">
+<a href="/title/tt4467202/awards?ref_=tt_awd"
+class="btn-full" >See more awards</a>&nbsp;&raquo;    </span>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsSummaryWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleAwardsSummaryWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleAwardsSummaryWidget", {wb: 1});
+    }
+</script>
+      </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleAwardsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleAwardsWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleMediaStripWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_started');
+    }
+  </script>
+        
+        
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_started');
+    }
+  </script>
+    
+      <div class = "article" id="titleMediaStrip">
+        <div class="mediastrip_container combined">
+                <div id="combined-videos">
+                    <h2>Videos</h2>
+    <div class="mediastrip_big">
+                <span class="video_slate_last" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T2M51S" />
+
+<a href="/video/imdb/vi1445835545?ref_=tt_pv_vi_aiv_1"
+title="Hero -- A boy and a girl find themselves stuck in a whirlpool of such intense love that they would do anything, go to any extent and face all odds for the one they love." alt="Hero -- A boy and a girl find themselves stuck in a whirlpool of such intense love that they would do anything, go to any extent and face all odds for the one they love." class="video-colorbox" data-video="vi1445835545" data-context="imdb" data-rid="1FDEF6DPTVJTXG3DBB86" widget-context="titleMaindetails" itemprop="url" ><img height="105" width="139" alt="Hero -- A boy and a girl find themselves stuck in a whirlpool of such intense love that they would do anything, go to any extent and face all odds for the one they love." title="Hero -- A boy and a girl find themselves stuck in a whirlpool of such intense love that they would do anything, go to any extent and face all odds for the one they love."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjIxOTA1Mjk0M15BMl5BanBnXkFtZTgwOTk5MTY3NjE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,2,76,16,137,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,137,verdenab,7,255,255,255,1_ZA02:51,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" itemprop='image' viconst="vi1445835545" /></a>            </span>
+    </div>
+                </div>
+                <div id="combined-photos">
+                    <h2>Photos</h2>
+    <div class="mediastrip">
+<a href="/register/login"
+id="add-image" > <span class="add-image-container" style="width:105px;height:105px">
+<span class="add-image-icon" />
+<span class="add-image-text">Add Image</span>
+</span>
+</a>    </div>
+                </div>
+            <div class="combined-see-more see-more">
+                
+        
+<a href="/title/tt4467202/videogallery?ref_=tt_pv_vi_sm"
+>1 video</a>                
+<span class="ghost">|</span>        
+<a href="/title/tt4467202/news?ref_=tt_pv_nw_sm"
+>56 news articles</a> &raquo;            </div>
+        </div>
+      </div>  
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_finished');
+    }
+  </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleMediaStripWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleMediaStripWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleRecsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleRecsWidget_started');
+    }
+  </script>
+    
+        <div class="article" id="titleRecs">
+            <span class="rightcornerlink">
+            <a href="/help/show_leaf?personalrecommendations&ref_=tt_rec_lm"
+>Learn more</a>
+            </span>
+            
+            <h2 class="rec_heading_wrapper">  
+                <span class="rec_heading" data-spec="p13nsims:tt4467202">People who liked this also liked...&nbsp;</span>
+            </h2>
+
+            <div class="rec_wrapper" id="title_recs"
+                data-items-per-request="24"
+                data-items-per-page="6"
+                data-specs="p13nsims:tt4467202"
+                data-caller-name="p13nsims-title">      
+                
+    <div class="rec_const_picker">
+        <div class="rec_view">
+            <div class="rec_grave" style="display:none"></div>
+            <div class="rec_slide">
+                        <div class="rec_page">         
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3159708">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3159708/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Welcome Back" title="Welcome Back"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNDg0MzM2MjY2MF5BMl5BanBnXkFtZTgwNTE4MDE2NjE@._V1_UX76_CR0,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3595298">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3595298/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Prem Ratan Dhan Payo" title="Prem Ratan Dhan Payo"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjUzMjE1MzIxOF5BMl5BanBnXkFtZTgwMjgyMzc5NjE@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3469244">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3469244/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Phantom" title="Phantom"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk5NDE2NDUxM15BMl5BanBnXkFtZTgwOTA3NzI1NjE@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3802576">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3802576/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Brothers" title="Brothers"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNzQ4Njg3Mjg5Nl5BMl5BanBnXkFtZTgwODE5MDg1NjE@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3547616">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3547616/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="All Is Well" title="All Is Well"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMmYxOTBlNWQtNjViYy00YzQyLWFkMDctMzgzZDkzOWE3NDQxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3863552">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3863552/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Bajrangi Bhaijaan" title="Bajrangi Bhaijaan"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE1NjQ5ODc2NV5BMl5BanBnXkFtZTgwOTM5ODIxNjE@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+                        </div>
+                        <div class="rec_page">         
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3619710">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3619710/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Bhaag Johnny" title="Bhaag Johnny"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMDAwMDAzYjQtMjRlMS00YzYzLTllMGItZmQyM2E5ZjdmZTY4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY113_CR2,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt4302956">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt4302956/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Kis Kisko Pyaar Karu" title="Kis Kisko Pyaar Karu"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BYWNhYzljZTEtM2Q5ZS00ODY2LTljODUtM2U1MGZiNjUyNTM3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt4467262">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt4467262/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Katti Batti" title="Katti Batti"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ5Mzg4NTUyM15BMl5BanBnXkFtZTgwMTMwNzYyNjE@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3696192">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3696192/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Singh Is Bliing" title="Singh Is Bliing"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BZTM5ZjM3NDEtYTJkMi00YzM0LWI2NDAtMzM4MmRmMjA0NDExXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY113_CR4,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt2372222">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt2372222/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Kick" title="Kick"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUyMTg0MTA1OF5BMl5BanBnXkFtZTgwMDg2MjMwMjE@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt4897908">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt4897908/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Calendar Girls" title="Calendar Girls"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUzODI3MDc1MF5BMl5BanBnXkFtZTgwODc2MDE4NjE@._V1_UX76_CR0,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+                        </div>
+            </div>
+            <div class="rec_nav">
+                <div class="rec_nav_page_num"></div>
+                <a class="rec_nav_left">&#9668; Prev 6</a>
+                <a class="rec_nav_right">Next 6 &#9658;</a>
+            </div>
+        </div>
+    </div>
+    
+   <div class="rec_overviews">
+
+         
+      <div class="rec_overview" data-tconst="tt3159708">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3159708">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3159708/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Welcome Back" title="Welcome Back"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNDg0MzM2MjY2MF5BMl5BanBnXkFtZTgwNTE4MDE2NjE@._V1_UX128_CR0,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt3159708" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt3159708/?ref_=tt_rec_tt"
+><b>Welcome Back</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Comedy          
+ <span class="ghost">|</span> 
+                     Crime          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt3159708|imdb|4.3|4.3|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 4.3/10 (3,681 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 60.2px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">4.3</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3159708/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A pair of reformed gangsters try to find a husband for their newly discovered sister, but complications arise due to mistaken identities.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Anees Bazmee  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Anil Kapoor, 
+Nana Patekar, 
+Dimple Kapadia</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt3595298">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3595298">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3595298/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Prem Ratan Dhan Payo" title="Prem Ratan Dhan Payo"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjUzMjE1MzIxOF5BMl5BanBnXkFtZTgwMjgyMzc5NjE@._V1_UY190_CR1,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt3595298" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt3595298/?ref_=tt_rec_tt"
+><b>Prem Ratan Dhan Payo</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Romance          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt3595298|imdb|5|5|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 5/10 (8,885 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 70px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">5</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3595298/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+While recovering from an assassination attempt four days before his coronation, a stern prince is replaced by a heartfelt lookalike.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Sooraj R. Barjatya  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Salman Khan, 
+Sonam Kapoor, 
+Anupam Kher</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt3469244">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3469244">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3469244/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Phantom" title="Phantom"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk5NDE2NDUxM15BMl5BanBnXkFtZTgwOTA3NzI1NjE@._V1_UY190_CR2,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt3469244" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt3469244/?ref_=tt_rec_tt"
+><b>Phantom</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt3469244|imdb|5.5|5.5|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 5.5/10 (5,795 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 77px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">5.5</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3469244/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A disgraced Indian soldier carries out a series of assassinations in the hope of restoring his honour.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Kabir Khan  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Saif Ali Khan, 
+Katrina Kaif, 
+Sabyasachi Chakraborty</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt3802576">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3802576">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3802576/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Brothers" title="Brothers"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNzQ4Njg3Mjg5Nl5BMl5BanBnXkFtZTgwODE5MDg1NjE@._V1_UY190_CR2,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt3802576" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt3802576/?ref_=tt_rec_tt"
+><b>Brothers</b></a>
+        <span>I</span>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Sport          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt3802576|imdb|6.8|6.8|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 6.8/10 (6,959 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 95.2px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">6.8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3802576/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+Two estranged, street-fighting brothers square off against each other in a mixed martial arts tournament.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Karan Malhotra  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Akshay Kumar, 
+Jackie Shroff, 
+Sidharth Malhotra</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt3547616">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3547616">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3547616/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="All Is Well" title="All Is Well"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMmYxOTBlNWQtNjViYy00YzQyLWFkMDctMzgzZDkzOWE3NDQxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY190_CR2,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt3547616" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt3547616/?ref_=tt_rec_tt"
+><b>All Is Well</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Comedy          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Romance          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt3547616|imdb|3.9|3.9|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 3.9/10 (988 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 54.6px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">3.9</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3547616/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A musician finds himself on the run from a group of thugs with his friend and his estranged parents.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Umesh Shukla  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Rishi Kapoor, 
+Abhishek Bachchan, 
+Asin</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt3863552">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3863552">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3863552/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Bajrangi Bhaijaan" title="Bajrangi Bhaijaan"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE1NjQ5ODc2NV5BMl5BanBnXkFtZTgwOTM5ODIxNjE@._V1_UY190_CR2,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt3863552" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt3863552/?ref_=tt_rec_tt"
+><b>Bajrangi Bhaijaan</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Comedy          
+ <span class="ghost">|</span> 
+                     Drama          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt3863552|imdb|8.2|8.2|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 8.2/10 (36,570 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 114.8px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">8.2</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3863552/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A man with a magnanimous spirit tries to take a young mute Pakistani girl back to her homeland to reunite her with her family.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Kabir Khan  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Salman Khan, 
+Kareena Kapoor, 
+Nawazuddin Siddiqui</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt3619710">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3619710">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3619710/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Bhaag Johnny" title="Bhaag Johnny"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMDAwMDAzYjQtMjRlMS00YzYzLTllMGItZmQyM2E5ZjdmZTY4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY190_CR3,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt3619710" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt3619710/?ref_=tt_rec_tt"
+><b>Bhaag Johnny</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt3619710|imdb|5.1|5.1|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 5.1/10 (542 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 71.4px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">5.1</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3619710/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+Thrilling story of Johnny who is sick and tired of living with painful vicarious feelings. Explains how much formidable is it to tackle with both ends of coin. No matter whatever choices ...                <a href="/title/tt3619710/plotsummary?ref_=tt_ov_ps"
+>See full summary</a>&nbsp;&raquo;
+    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Shivam Nair  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Kunal Khemu, 
+Zoa Morani, 
+Mandana Karimi</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt4302956">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt4302956">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt4302956/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Kis Kisko Pyaar Karu" title="Kis Kisko Pyaar Karu"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BYWNhYzljZTEtM2Q5ZS00ODY2LTljODUtM2U1MGZiNjUyNTM3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY190_CR1,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt4302956" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt4302956/?ref_=tt_rec_tt"
+><b>Kis Kisko Pyaar Karu</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Comedy          
+ <span class="ghost">|</span> 
+                     Romance          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt4302956|imdb|6|6|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 6/10 (3,020 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 84px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">6</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt4302956/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A man (Kapil Sharma) falls in love with four women, but how will he keep them from finding out about each other?    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Directors:</b>
+Abbas Alibhai Burmawalla,
+Mastan Alibhai Burmawalla  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Kapil Sharma, 
+Simran Kaur Mundi, 
+Manjari Phadnis</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt4467262">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt4467262">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt4467262/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Katti Batti" title="Katti Batti"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ5Mzg4NTUyM15BMl5BanBnXkFtZTgwMTMwNzYyNjE@._V1_UY190_CR2,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt4467262" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt4467262/?ref_=tt_rec_tt"
+><b>Katti Batti</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Comedy          
+ <span class="ghost">|</span> 
+                     Romance          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt4467262|imdb|4.8|4.8|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 4.8/10 (1,730 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 67.2px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">4.8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt4467262/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A romantic comedy that follows Maddy and Payal's live-in relationship until a sudden turn of events creates a distance between them.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Nikhil Advani  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Imran Khan, 
+Kangana Ranaut, 
+Vivan Bhatena</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt3696192">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt3696192">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt3696192/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Singh Is Bliing" title="Singh Is Bliing"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BZTM5ZjM3NDEtYTJkMi00YzM0LWI2NDAtMzM4MmRmMjA0NDExXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY190_CR7,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt3696192" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt3696192/?ref_=tt_rec_tt"
+><b>Singh Is Bliing</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Comedy          
+ <span class="ghost">|</span> 
+                     Drama          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt3696192|imdb|5.5|5.5|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 5.5/10 (4,226 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 77px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">5.5</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3696192/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+Raftaar Singh (Akshay) spends his days whiling his time away dancing and jumping through fire hula-hoops at fairs in Bassi Pathana in Punjab. While his father (Yograj Singh) is tired of his...                <a href="/title/tt3696192/plotsummary?ref_=tt_ov_ps"
+>See full summary</a>&nbsp;&raquo;
+    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Prabhudheva  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Sunny Leone, 
+Akshay Kumar, 
+Amy Jackson</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt2372222">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt2372222">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt2372222/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Kick" title="Kick"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUyMTg0MTA1OF5BMl5BanBnXkFtZTgwMDg2MjMwMjE@._V1_UY190_CR2,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt2372222" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt2372222/?ref_=tt_rec_tt"
+><b>Kick</b></a>
+            <span class="nobr">(2014)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Comedy          
+ <span class="ghost">|</span> 
+                     Romance          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt2372222|imdb|5.5|5.5|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 5.5/10 (15,928 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 77px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">5.5</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt2372222/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+An adrenaline junkie walks away from a whirlwind romance and embraces a new life as a thief, though he soon finds himself pursued by veteran police officer and engaged in a turf war with a local gangster.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Sajid Nadiadwala  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Salman Khan, 
+Jacqueline Fernandez, 
+Nawazuddin Siddiqui</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt4897908">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt4467202" data-tconst="tt4897908">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt4897908/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Calendar Girls" title="Calendar Girls"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUzODI3MDc1MF5BMl5BanBnXkFtZTgwODc2MDE4NjE@._V1_UX128_CR0,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt4897908" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt4897908/?ref_=tt_rec_tt"
+><b>Calendar Girls</b></a>
+            <span class="nobr">(2015)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Drama          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt4897908|imdb|4|4|p13nsims-title|tt4467202|title|main" data-ga-identifier=""
+title="Users rated this 4/10 (457 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 56px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">4</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt4897908/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A story of a girl who came from a village to get stardom in the fashion industry. What happens next when she is surrounded by obstacles?    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Madhur Bhandarkar  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Akanksha Puri, 
+Avani Modi, 
+Kyra Dutt</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+    
+   </div>
+   
+                
+            </div>
+        </div>  
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleRecsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleRecsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleRecsWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+        
+
+    
+    
+    
+            
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleCastWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleCastWidget_started');
+    }
+  </script>
+    <div class="article" id="titleCast">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_cl"
+rel="login">Edit</a>
+    </span>
+        <h2>Cast</h2>
+        
+        <table class="cast_list">    
+  <tr><td colspan="4" class="castlist_label">Credited cast:</td></tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm4808460/?ref_=tt_cl_i1"
+><img height="44" width="32" alt="Suraj Pancholi" title="Suraj Pancholi"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm4808460/?ref_=tt_cl_t1"
+itemprop='url'> <span class="itemprop" itemprop="name">Suraj Pancholi</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Sooraj 
+  
+  
+  (as Sooraj Pancholi)
+  
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm7508187/?ref_=tt_cl_i2"
+><img height="44" width="32" alt="Athiya Shetty" title="Athiya Shetty"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm7508187/?ref_=tt_cl_t2"
+itemprop='url'> <span class="itemprop" itemprop="name">Athiya Shetty</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Radha 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm0223606/?ref_=tt_cl_i3"
+><img height="44" width="32" alt="Tigmanshu Dhulia" title="Tigmanshu Dhulia"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0223606/?ref_=tt_cl_t3"
+itemprop='url'> <span class="itemprop" itemprop="name">Tigmanshu Dhulia</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Shrikant Mathur 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm0659156/?ref_=tt_cl_i4"
+><img height="44" width="32" alt="Aditya Pancholi" title="Aditya Pancholi"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0659156/?ref_=tt_cl_t4"
+itemprop='url'> <span class="itemprop" itemprop="name">Aditya Pancholi</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Suryakant Pasha Ranade 
+                  
+              </div>
+          </td>
+      </tr>
+  <tr><td colspan="4" class="castlist_label">Rest of cast listed alphabetically:</td></tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm1875257/?ref_=tt_cl_i5"
+><img height="44" width="32" alt="Vivan Bhatena" title="Vivan Bhatena"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm1875257/?ref_=tt_cl_t5"
+itemprop='url'> <span class="itemprop" itemprop="name">Vivan Bhatena</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Ranvijay Shekhawat 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm1878081/?ref_=tt_cl_i6"
+><img height="44" width="32" alt="Chetan Hansraj" title="Chetan Hansraj"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm1878081/?ref_=tt_cl_t6"
+itemprop='url'> <span class="itemprop" itemprop="name">Chetan Hansraj</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Changezi 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm1595109/?ref_=tt_cl_i7"
+><img height="44" width="32" alt="Anita Hassandani" title="Anita Hassandani"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm1595109/?ref_=tt_cl_t7"
+itemprop='url'> <span class="itemprop" itemprop="name">Anita Hassandani</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Radha's sister-in-law 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm7728057/?ref_=tt_cl_i8"
+><img height="44" width="32" alt="Randeep Jha" title="Randeep Jha"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm7728057/?ref_=tt_cl_t8"
+itemprop='url'> <span class="itemprop" itemprop="name">Randeep Jha</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Rathudi 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm0434263/?ref_=tt_cl_i9"
+><img height="44" width="32" alt="Kishore Kadam" title="Kishore Kadam"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ5MzkzNzY0OF5BMl5BanBnXkFtZTgwMjcyNzIxNzE@._V1_UY44_CR17,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0434263/?ref_=tt_cl_t9"
+itemprop='url'> <span class="itemprop" itemprop="name">Kishore Kadam</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Shantaram 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm2821544/?ref_=tt_cl_i10"
+><img height="44" width="32" alt="Sharad Kelkar" title="Sharad Kelkar"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm2821544/?ref_=tt_cl_t10"
+itemprop='url'> <span class="itemprop" itemprop="name">Sharad Kelkar</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Dheeraj Mathur 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm3472437/?ref_=tt_cl_i11"
+><img height="44" width="32" alt="Preiti Mamgain" title="Preiti Mamgain"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm3472437/?ref_=tt_cl_t11"
+itemprop='url'> <span class="itemprop" itemprop="name">Preiti Mamgain</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Radha's mother 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm4376717/?ref_=tt_cl_i12"
+><img height="44" width="32" alt="Anil Mange" title="Anil Mange"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm4376717/?ref_=tt_cl_t12"
+itemprop='url'> <span class="itemprop" itemprop="name">Anil Mange</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Sooraj's friend 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm1021919/?ref_=tt_cl_i13"
+><img height="44" width="32" alt="Suresh Menon" title="Suresh Menon"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm1021919/?ref_=tt_cl_t13"
+itemprop='url'> <span class="itemprop" itemprop="name">Suresh Menon</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            BBM 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm5811800/?ref_=tt_cl_i14"
+><img height="44" width="32" alt="Trishaan" title="Trishaan"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm5811800/?ref_=tt_cl_t14"
+itemprop='url'> <span class="itemprop" itemprop="name">Trishaan</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Anondo Gangopadhyay(Gangu) 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm3211304/?ref_=tt_cl_i15"
+><img height="44" width="32" alt="Ashish Verma" title="Ashish Verma"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm3211304/?ref_=tt_cl_t15"
+itemprop='url'> <span class="itemprop" itemprop="name">Ashish Verma</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Mangesh 
+                  
+              </div>
+          </td>
+      </tr>
+        </table>
+        <div class="see-more">
+            <a href="fullcredits?ref_=tt_cl_sm#cast"
+>See full cast</a>&nbsp;&raquo;
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleCastWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleCastWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleCastWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+        
+        
+
+    
+    
+    
+        
+	
+	<!-- no content received for slot: maindetails_center_ad -->
+	
+
+
+    
+    
+    
+        
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleStorylineWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleStorylineWidget_started');
+    }
+  </script>
+    <div class = "article" id="titleStoryLine">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_stry"
+rel="login">Edit</a>
+    </span>
+    
+        <h2>Storyline</h2>
+        
+        <div class="inline canwrap" itemprop="description">
+            <p>
+Sooraj (Sooraj Pancholi) is a gangster of Mumbai who meets Radha (Athiya Shetty). Radha is the daughter of the Chief of Police. One day, Sooraj runs with Radha, telling her that he got instructions from the police to take her away from city for some time. But later Radha gets to know that she is kidnapped by Sooraj. After a series of events, Sooraj leaves Radha. But by that time, they are already in love. Thereafter, comes the part where they have to face a lot of problems and overcome all hurdles to prove their love for each other.            </p>
+        </div>
+        
+        <span class="see-more inline"> 
+                <a href="/title/tt4467202/plotsummary?ref_=tt_stry_pl"
+>Plot Summary</a>
+    <span>|</span>
+        <a href="/title/tt4467202/synopsis?ref_=tt_stry_pl"
+>Add Synopsis</a>
+    </span>
+        <hr />
+        <div class="see-more inline canwrap" itemprop="keywords">
+            <h4 class="inline">Plot Keywords:</h4>
+<a href="/keyword/police?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">police</span></a>
+                        <span>|</span>
+<a href="/keyword/girl?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">girl</span></a>
+                        <span>|</span>
+<a href="/keyword/gangster?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">gangster</span></a>
+                        <span>|</span>
+<a href="/keyword/kidnapping?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">kidnapping</span></a>
+                        <span>|</span>
+<a href="/keyword/chase?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">chase</span></a>
+            <span>|</span>&nbsp;<nobr><a href="/title/tt4467202/keywords?ref_=tt_stry_kw"
+>See All (12)</a>&nbsp;&raquo;</nobr>
+
+        </div>      
+        <hr />
+        <div class="see-more inline canwrap" itemprop="genre">
+            <h4 class="inline">Genres:</h4>
+<a href="/genre/Action?ref_=tt_stry_gnr"
+> Action</a>&nbsp;<span>|</span>
+<a href="/genre/Drama?ref_=tt_stry_gnr"
+> Drama</a>&nbsp;<span>|</span>
+<a href="/genre/Romance?ref_=tt_stry_gnr"
+> Romance</a>
+        </div>      
+        
+             <hr/>
+    
+    <div class="txt-block">
+            <h4 class="inline">Certificate:</h4>
+            <span class="see-more inline">
+<a href="/title/tt4467202/parentalguide?ref_=tt_stry_pg#certification"
+> See all certifications</a>&nbsp;&raquo;
+            </span>
+    </div>
+    <div class="txt-block">
+        <h4 class="inline">Parents Guide:</h4>
+        <span class="see-more inline" itemprop="audience" itemscope itemtype="http://schema.org/Audience">
+<a href="/title/tt4467202/parentalguide?ref_=tt_stry_pg"
+> Add content advisory for parents</a>&nbsp;&raquo;
+        </span>
+    </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleStorylineWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleStorylineWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleStorylineWidget", {wb: 1});
+    }
+</script>
+        
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleDetailsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDetailsWidget_started');
+    }
+  </script>
+    
+    <div class = "article" id="titleDetails">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_dt_dt"
+rel="login">Edit</a>
+    </span>
+        <h2>Details</h2>
+      <div class="txt-block">
+      <h4 class="inline">Official Sites:</h4>
+    <a href="/offsite/?page-action=offsite-facebook&token=BCYiYxihf9MHniY_rrwex99C6f9pBsoeLh4F3DBC5bpZQK0908mlVzRVpqx_kMrcgXk4W-c2_Gqz%0D%0AhDkr4M7ivGWiCodQgkbjs_k-IcPQ4M-UxUhhZd7xQwRTH5Cz56z0BkPpsi5hCr6IorGmZImat9tK%0D%0AAzGn98BxqhDhEIVz7MUjqtlwglGlq0XDtPharVGztD7QEr78DKlWvRJzZkB5NvJuE8N2gw5b4IX7%0D%0AVZTFcDZIszs%0D%0A&ref_=tt_pdt_ofs_offsite_0"
+rel="nofollow" itemprop='url'>Official Facebook Page</a>
+          <span class="ghost">|</span>
+        
+    <a href="/offsite/?page-action=offsite-twitter&token=BCYu6wfRwwr2XOddeIWbGsPB_NY4ZSeV6GUO4Ey9doEJvlvG6S09QyfUY6ZuTfH46Jz76aa8vb_3%0D%0AUjOlT5kXf9F5AKMQxeLy8h40vmz8fgMyED5NW9ZUaltsuMZa686GjzsDasck2zX6UHLcJovjfXGU%0D%0AmHiwm-VsLcRapROMd87nnrN7nE7aTt9qnhsDTCjaWGBT-ZYPW3o4NC3EhU3ikve2frrKF71rYJSn%0D%0AMiH_EOEDTww%0D%0A&ref_=tt_pdt_ofs_offsite_1"
+rel="nofollow" itemprop='url'>Official Twitter Handle</a>
+               <span class="see-more inline">
+      </span>
+      </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Country:</h4>
+        <a href="/country/in?ref_=tt_dt_dt"
+itemprop='url'>India</a>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Language:</h4>
+        <a href="/language/hi?ref_=tt_dt_dt"
+itemprop='url'>Hindi</a>
+    </div>
+  
+    
+    <div class="txt-block">
+    <h4 class="inline">Release Date:</h4> 11 September 2015 (India)
+    <span class="see-more inline">
+      <a href="releaseinfo?ref_=tt_dt_dt"
+itemprop='url'>See more</a>&nbsp;&raquo;
+    </span>
+    </div>
+  
+  
+  
+  <hr /> 
+  <h3 class="subheading">Company Credits</h3>
+    <div class="txt-block">
+    <h4 class="inline">Production Co:</h4>
+        <span itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+<a href="/company/co0541353?ref_=tt_dt_co"
+itemprop='url'><span class="itemprop" itemprop="name">Salman Khan Films</span></a></span>,        <span itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+<a href="/company/co0415569?ref_=tt_dt_co"
+itemprop='url'><span class="itemprop" itemprop="name">Emmay Entertainment</span></a></span>,        <span itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+<a href="/company/co0066395?ref_=tt_dt_co"
+itemprop='url'><span class="itemprop" itemprop="name">Mukta Arts</span></a></span>      <span class="see-more inline">
+        <a href="companycredits?ref_=tt_dt_co"
+itemprop='url'>See more</a>&nbsp;&raquo;
+      </span>
+    </div>
+  <div class="txt-block"> 
+  Show detailed
+<a href="http://pro.imdb.com/title/tt4467202/companycredits?rf=cons_tt_cocred_tt&ref_=cons_tt_cocred_tt"
+itemprop='url'>company contact information</a>
+  on 
+  <a href="http://pro.imdb.com/signup/index.html?rf=cons_tt_cocred_spl&ref_=cons_tt_cocred_spl"
+itemprop='url'>IMDbPro</a>&nbsp;&raquo;
+  </div>
+  
+
+  <hr />
+  <h3 class="subheading">Technical Specs</h3>
+  
+    <div class="txt-block">
+      <h4 class="inline">Runtime:</h4> 
+        <time itemprop="duration" datetime="PT145M">145 min</time>
+    </div>
+  
+  
+    <div class="txt-block">
+    <h4 class="inline">Color:</h4>
+        <a href="/search/title?colors=color&ref_=tt_dt_spec"
+itemprop='url'>Color</a>
+    </div>
+  
+  
+  See <a href="technical?ref_=tt_dt_spec"
+itemprop='url'>full technical specs</a>&nbsp;&raquo;
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDetailsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleDetailsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleDetailsWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleDidYouKnowWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDidYouKnowWidget_started');
+    }
+  </script>
+    <div id="titleDidYouKnow" class="article">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_trv_trv"
+rel="login">Edit</a>
+    </span>
+        <h2>Did You Know?</h2>
+    <div id="trivia" class="txt-block">
+        <h4>Trivia</h4>
+
+
+On 14 August 2013 news told that Govinda and Vinod Khanna will also star in the remake film. On 25 October 2013 Ghai said "Yes, Salman may make a special appearance but he will primarily be working as the producer of the film" and he will be singing the title song of the film. On 9 February 2014 it was confirmed that Athiya Shetty will make her acting debut in the remake film opposite to Sooraj Pancholi.        <a href="trivia?ref_=tt_trv_trv"
+class="nobr" >See more</a>  &raquo;
+    </div>
+                <hr />
+    <div id="soundtracks" class="text-block">
+        <h4>Soundtracks</h4>
+Main Hoon Tera Hero<br />
+(Salman Khan Version)<br />
+Written by: <a href="/name/nm2333804?ref_=tt_trv_snd">Kumaar</a><br />
+Produced by: <a href="/name/nm6153653?ref_=tt_trv_snd">Amal Mallik</a><br />
+Performed by: <a href="/name/nm0006795?ref_=tt_trv_snd">Salman Khan</a><br />        <a href="soundtrack?ref_=tt_trv_snd"
+class="nobr" >See more</a> &raquo;
+    </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDidYouKnowWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleDidYouKnowWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleDidYouKnowWidget", {wb: 1});
+    }
+</script>
+        
+
+    
+    
+    
+
+
+    
+    
+    
+
+    <div class="article" id="titleFAQ">
+        <h2>Frequently Asked Questions</h2>
+<a href="/title/tt4467202/faq?ref_=tt_faq_sm"
+>This FAQ is empty. Add the first question.</a> 
+    </div>    
+            
+
+    
+    
+    
+        
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleUserReviewsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_started');
+    }
+  </script>
+    <div class="article" id="titleUserReviewsTeaser">
+        <h2>User Reviews</h2>
+        <div class="user-comments">
+                    <div class="tinystarbar" title="4/10">
+                        <div style="width: 40px;">&nbsp;</div>
+                    </div>
+                <span itemprop="review" itemscope itemtype="http://schema.org/Review">  
+                    <strong itemprop="name">A bore fest, stale and bad acting by the leads, this should be stopped now.</strong>
+                    <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+                        <meta itemprop="worstRating" content = "1" />
+                        <meta itemprop="ratingValue" content="4" />
+                        <meta itemprop="bestRating" content="10" />
+                    </span>
+                    <div class="comment-meta">
+                        14 September 2015 | by <a href="/user/ur23650639/?ref_=tt_urv"
+><span itemprop="author">Ajit Tiwari</span></a>
+                        <meta itemprop="datePublished" content="2015-09-14" />
+                              (India)
+                        &ndash; <a href="/user/ur23650639/comments?ref_=tt_urv"
+>See all my reviews</a>
+                    </div>
+                    <div>
+                        <p itemprop="reviewBody">&#x22;Khota hai, par mera hai&#x22; Aditya Pancholi said is correctly for Sooraj.<br /><br />&#x27;Hero&#x27; starts with a heavily tattooed Sooraj (Sooraj Pancholi) flexing his muscles and thrashing the goons, one by one or all of them at once. The villain also says &#x22;Hero ki tarah entry maarta hai, khud ko Hero samajhta hai kya&#x22;. Now you can have an idea, what are you going to watch for next 125 minutes? It is the remake of &#x22;Hero&#x22; which made Jackie Shroff and Meenakshi Sheshadri stars overnight, it was Subhash Ghai and it was also 1983. Then the love story, dialogs, action scenes, melodrama and villains were not clich&#xE9;d, but now these are truly are, but it has a soulful music.<br /><br />It has been three decades and we are watching same thing with different star cast, high voltage action sequences, a muscular protagonist and Athiya Shetty.<br /><br />Screenplay does not offer anything but clich&#xE9;s, cheesy dialogs, every frame is predictable, forced comedy and but it has some unpredictability too, that is the songs, because songs can come at whatever time. Nikhil Advani thought- &#x22;We don&#x27;t have anything to show, let us insert a song&#x22; this way he has inserted six songs. Writing is poor and it does not give a scope for any character to behold the story.<br /><br />Sooraj could have done better if he had concentrated on his acting than musculature, he used all the screen time arching his muscles and doing death defying action scenes, at one point he escapes a bullet as a bicycle comes in front from nowhere. Athiya Shetty screen presence is bad and her acting too. Sooraj and Athiya speak Hindi doing a weird accent which does not exist, when we speak Hindi.<br /><br />Tuigmanshu Dulia has been wasted and looks indifferent, other casts have nothing good to do.<br /><br />I think Nikhil Advani was in haste as he has to release another movie too because his direction was really bad.<br /><br />Ctrl+Alt+Delete should be the name of the movie.<br /><br />Not recommended.</p>
+                    </div>
+                </span>
+                <hr />
+                <div class="yn" id="ynd_3316727">
+                    5 of 5 people found this review helpful.&nbsp;
+                    Was this review helpful to you?
+                    <button class="btn small" value="Yes" name="ynb_3316727_yes" onclick="CS.TMD.user_review_vote(3316727, 'tt4467202', 'yes');" >Yes</button>
+                    <button class="btn small" value="No" name="ynb_3316727_no" onclick="CS.TMD.user_review_vote(3316727, 'tt4467202', 'no');" >No</button>
+                </div>
+            <div class="see-more">
+                
+                <a href="/title/tt4467202/reviews-enter?ref_=tt_urv"
+rel="login">Review this title</a>
+                <span>|</span>
+                    <a href="/title/tt4467202/reviews?ref_=tt_urv"
+>See all 17 user reviews</a>&nbsp;&raquo;
+            </div>
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_finished');
+    }
+  </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleUserReviewsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleUserReviewsWidget", {wb: 1});
+    }
+</script>
+        
+
+    
+    
+    
+        
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleMessageBoardsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMessageBoardsWidget_started');
+    }
+  </script>
+    <div class="article" id="boardsTeaser">
+        <h2>Message Boards</h2>
+            Recent Posts
+            <table class="boards">
+                    <tr class="odd">
+                        <td>
+                            <a href="/title/tt4467202/board/nest/248222288?ref_=tt_bd_1"
+>Salman is Bad luck charm</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur18115516/?ref_=tt_bd_1"
+>regforum07</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/title/tt4467202/board/nest/248222358?ref_=tt_bd_2"
+>Salman is Bad luck charm</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur18115516/?ref_=tt_bd_2"
+>regforum07</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/title/tt4467202/board/nest/248913145?ref_=tt_bd_3"
+>Pathetic movie</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur54091003/?ref_=tt_bd_3"
+>ravi-unadkat</a>
+                        </td>
+                    </tr>
+            </table>
+        <div class="see-more">
+            <a href="/title/tt4467202/board/?ref_=tt_bd_sm"
+>Discuss Hero (2015)</a> on the IMDb message boards &raquo;
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMessageBoardsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleMessageBoardsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleMessageBoardsWidget", {wb: 1});
+    }
+</script>
+        
+
+    
+    
+    
+        
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleContributeWidget_started');
+    }
+  </script>
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=tt_cn_hlp"
+>Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=tt_cn_cz"
+>Contributor Zone</a>&nbsp;&raquo;</div>
+        <h2>Contribute to This Page</h2>
+
+                <div class="button-box">
+                    <form method="post" action="/updates?ref_=tt_cn_edt">
+                        <input type="hidden" name="auto" value="legacy/title/tt4467202/">
+                            <button class="btn primary large" rel="login" type="submit">Edit page</button>
+                    </form>
+                </div>
+        
+
+    
+
+        <div class="button-box">
+<a href="/title/tt4467202/reviews-enter?ref_=tt_cn_urv"
+class="btn large" rel="login">Write review</a>          
+        </div>
+    
+    
+        <div class="form-box">
+            <form method="post" action="/character/create?ref_=tt_cn_ch" accept-charset="ISO-8859-1">
+                <input type="hidden" value="tt4467202" name="title">
+                <div class="form-txt">Create a character page for:</div>
+                <select id="character_select" name="name" data-tconst="tt4467202">
+                        <option value="Sooraj">Sooraj</option>
+                        <option value="Radha">Radha</option>
+                        <option value="Shrikant Mathur">Shrikant Mathur</option>
+                        <option value="Suryakant Pasha Ranade">Suryakant Pasha Ranade</option>
+                        <option value="Ranvijay Shekhawat">Ranvijay Shekhawat</option>
+                        <option value="Changezi">Changezi</option>
+                        <option value="Radha's sister-in-law">Radha's sister-in-law</option>
+                        <option value="Rathudi">Rathudi</option>
+                        <option value="Shantaram">Shantaram</option>
+                        <option value="Dheeraj Mathur">Dheeraj Mathur</option>
+                        <option value="Radha's mother">Radha's mother</option>
+                        <option value="Sooraj's friend">Sooraj's friend</option>
+                        <option value="BBM">BBM</option>
+                        <option value="Anondo Gangopadhyay(Gangu)">Anondo Gangopadhyay(Gangu)</option>
+                        <option value="Mangesh">Mangesh</option>
+                     <option disabled="disabled">-----------</option>
+                     <option value="...">more...</option>
+                </select>
+                <button class="btn small">Create &raquo;</button>
+                <a href="/help/show_leaf?createchar&ref_=tt_cn_chhlp"
+class="btn small" >?</a>
+            </form>
+        </div>
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleContributeWidget_finished');
+    }
+  </script>
+            
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+            
+    </div>
+    <br class="clear"/>
+</div> 
+
+
+    
+    
+    
+
+    
+    
+    
+
+                   <br class="clear" />
+                </div>
+
+
+
+
+
+
+    <div id="footer" class="ft">
+
+            <div id="rvi-div">
+                <div class="recently-viewed">&nbsp;</div>
+                <br class="clear">
+            </div>
+
+	
+	<!-- no content received for slot: bottom_ad -->
+	
+
+        <div class="container footer-grid-wrapper">
+            <div class="row footer-row">
+                <div class="col outside">
+    <h3>IMDb Everywhere</h3>
+    <div class="app-links">
+    <a href="/offsite/?page-action=ft_app_apple&token=BCYm4jLin_attQMB7QQx5oHDGy_FUpJky3v_ikPOeWVai57zjJf7ey-V_-pSSwrmYTLcKjypfh_-%0D%0ABurLPopeE1gdW17w_FdYIxm3PJKQ4dLX4X7FceaZNVkzSKPLSmXu4WYEuCJHM99l7WqagIj3DV-N%0D%0AqLkgpE83Pz77Tgovb-yCuz2Cb3PZOM1iNvGr1pkq2sXxoiJzAdrSl89sJIqBa1mkI9l_pG9pT7dU%0D%0AzQgWSOMtGAc%0D%0A&ref_=ft_app_apple"
+title="Get the IMDb App on the Apple App Store" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-apple" ></span>
+</a>
+    <a href="/offsite/?page-action=ft_app_google&token=BCYgl1Ub7q-g73lgrxMtibO72TI27b3caFGX6MDj3vKz5jSRS2yC5-EpQll9moGdQx6YKk-DNOb_%0D%0ANyRx-cxdgmAKSRo8u1znqG1IL2H-Zavg8nHxzNscTFVi1jOkPDfjekhYWdJaZeBQ_ofUYln9npK2%0D%0Ay_bl9qFELEyZpXpp7s_0ewRQ3GLSW_H7OWgXUWxO-b10vG2oHhWFMULJR0kvSGGQVAKhPsRuEQNl%0D%0Ad66ND813QYE%0D%0A&ref_=ft_app_google"
+title="Get the IMDb app on Google Play" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-google" ></span>
+</a>
+    <a href="/offsite/?page-action=ft_app_amazon&token=BCYudScVEO46ipQCeDhy_g7FhPSbm3KN1l9DjouFi-gY4XAzVOTvNm2_rNp32lRskjXLfsfJ49n3%0D%0ApWQxspUGR5JlW4ZBrQJJMwsh1c0teK-h-fssQdSE6m8V9r58LbdsCh1mRnzO9gGIkChTFd6KKEYf%0D%0AITeZ998YC2GsJGNauaMorCSX8RVZknbu01s2S_F7T-mQa62uPGEsFjEfe0WVE4M947KEczFyLaWS%0D%0APmoG0LbAsyhFU5u2nmyOgrHnQBkBar7gSWtgbbyvQY9P8pZ2BmnJXN08F139MKwJaZ4TjDn8Sk5U%0D%0Aqbremu8NLYzGRgn-Cpq2WToNrSCX9KJJKPuqChIh8IdQS0pNfPX0Pgd3K7bn1Rm5wx-PyKZ9cZcg%0D%0ApVmvhE4FggX-AgvBBkoFt-UeFEwZnKPIk35Ml60sVhaY0qdmKjs%0D%0A&ref_=ft_app_amazon"
+title="Get the IMDb app on Amazon Appstore for Android" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-amazon" ></span>
+</a>
+    </div>
+
+    <p>Find showtimes, watch trailers, browse photos, track your Watchlist and rate your favorite movies and TV shows on your phone or tablet!</p>
+
+    <a href="http://m.imdb.com?ref_=ft_mdot"
+class="touchlink" >IMDb Mobile site</a>
+                </div>
+                <div class="col center">
+  <div class="link-bar icon-link-bar">
+    <h3>
+      Follow IMDb on
+      <div>
+
+    <a href="/offsite/?page-action=fol_fb&token=BCYrbkZM4z-py8qAhxh9F_0v6gqSlfsc6xgT26ZZ6v8Ld5OoPd5XWEE4MmUqmLJ3iTyE7HHUIEu7%0D%0AncCridtlrnmvxwRP0zjfVC9zdfXU_nJHg8GIHJOATCLNgKaPeErX0GvUP9-GZTtq750ukVWQt665%0D%0ANgtiosiGIOPlPn0zC03HUI1FMXUp_2u8xJEfJ8o-nIogZliMh1Ht12JgiSKO_TLd4A%0D%0A&ref_=tt_ft_fol_fb"
+title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
+</a>
+    <a href="/offsite/?page-action=fol_tw&token=BCYhP1jc5NCFWB8NHjPCiW4JRf5ZPTxO--LrMaJkVtfwNGXRx2du-a-TSwWTL_U17PmpRuzosY3t%0D%0ADNLdqcc-6xYEBD4-kiR_7lUBS1fZ2nwXwPzKeE1tI5ghyiaGWgdaHTzJVO5ZIzlk2L1DAzL11sLV%0D%0AoYshpg8c-ZKi3zItqpiAOKIz74YT24u1RskU0h-zg_lIGSQXZEWWKba6RGDir8F1zg%0D%0A&ref_=tt_ft_fol_tw"
+title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
+</a>
+    <a href="/offsite/?page-action=fol_inst&token=BCYuFNuaV9cV5_JUGecu4Y5UBYJv7B8JZIez8vNv1GjqFzjhKsjzFMRmfNCYb57SuxexAQqX1OJ6%0D%0AzDsX7ctC1Ib3Tjx0-WihR1hwfili8FZjCYybeN30uzAK9sJsegUGT3_qMuw4VEtXyeJQAwHxwWV8%0D%0AAkrYSGE6OuJVgYiNVmirC5rVO9oy4E9ALz_gTY7cULnocU92UhzD-_vMBYci6YSBcA%0D%0A&ref_=tt_ft_fol_inst"
+title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
+</a>
+      </div>
+    </h3>
+  </div>
+                </div>
+                <div class="col outside">
+    <div class="row">
+        <div class="col col-4">
+            <ul class="unstyled">
+                <li><a href="/?ref_=ft_hm"
+>Home</a></li>
+                <li><a href="/chart/top?ref_=ft_250"
+>Top Rated Movies</a></li>
+                <li><a href="/chart/?ref_=ft_cht"
+>Box Office</a></li>
+                <li><a href="/sections/tv/?ref_=ft_tv"
+>TV</a></li>
+                <li><a href="/movies-coming-soon/?ref_=ft_cs"
+>Coming Soon</a></li>
+                <li><a href="/a2z?ref_=ft_si"
+>Site Index</a></li>
+                <li><a href="/search?ref_=ft_sr"
+>Search</a></li>
+                <li><a href="/movies-in-theaters/?ref_=ft_inth"
+>In Theaters</a></li>
+            </ul>
+        </div>
+        <div class="col col-4">
+            <ul class="unstyled">
+                <li><a href="/helpdesk/contact?ref_=ft_con"
+>Contact Us</a></li>
+                <li><a href="/boards/?ref_=ft_mb"
+>Message Boards</a></li>
+                <li>        <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg"
+>Register</a>
+</li>
+                <li><a href="/news/?ref_=ft_nw"
+>News</a></li>
+                <li class="spacer"></li>
+                <li><a href="/pressroom/?ref_=ft_pr"
+>Press Room</a></li>
+                <li><a href="/advertising/?ref_=ft_ad"
+>Advertising</a></li>
+                <li><a href="/jobs?ref_=ft_jb"
+>Jobs</a></li>
+            </ul>
+        </div>
+        <div class="col col-4">
+            <ul class="unstyled">
+                <li><a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
+>IMDbPro</a></li>
+                <li>    <a href="/offsite/?page-action=ft-mojo&token=BCYjwIVTIeP6liFZWmdFRHRoQhZhIH96eqDBcqd3w_s9ALe7Qa7J-8gJzOga9t-kKpj7BjyGhpK4%0D%0Ar1P0mJUvPoTQm9krwRTZPqmJkLyGn-WnJC7pY1PHbkvRtynm61dujHja8pug4i8bCmYku7fXWk2B%0D%0AYSKjE5f9o2dEekHUaGm6pLdDYbLUCcJJICjRWbRw0OXSWmRulyDJdU0wRGK0SPgHJg%0D%0A&ref_=ft_bom"
+itemprop='url'>Box Office Mojo</a>
+</li>
+                <li>    <a href="/offsite/?page-action=ft-wab&token=BCYiHoOFZlTOFW_PcnlIzSLHykH650ASL_4q6MXrrhmYSWkcyt271mzfqdFDxCDgSphpUHtetVOC%0D%0A2zuslNvTNtCmOqDwQkjMMOaRJlX98Jlh4kHU4GSPiPV6iXbCqYCCHOAA6A3tjpC7PsZnTEP3zwDC%0D%0A22WjQTB-ivED3U4sUVVQNmHkcWljSBIFvdWOezZwfN4GpvOn19yNajyy1NxlgIGyVQ%0D%0A&ref_=ft_wab"
+itemprop='url'>Withoutabox</a>
+</li>
+                <li class="spacer"></li>
+                <li><a href="/help/show_article?conditions&ref_=ft_cou"
+>Conditions of Use</a></li>
+                <li><a href="/privacy?ref_=ft_pvc"
+>Privacy Policy</a></li>
+                <li>    <a href="/offsite/?page-action=ft-iba&token=BCYrydPEB6_VApHfZ_WPnu1vMuTACCPh0R6K0hvVbN3wL-h3iLRsV4xemyavU75Zv5yZjJ02H7Ev%0D%0A5YghPyOG-W4ygAefYlCXgN5FkBiywWjMyCA0a3UYvbWK_juRIfHWjZ48No_Nku0huAXH8C9WFGiU%0D%0ARHUbMMmODReLGhMK3hhhP0ngCBN2UEib9Ay1WDL4jMRkiuinCf24E9OjXUhUXOLeZlsBOrYwJea7%0D%0A3Ynx1jIMCUTaosLofY_4RfyzhKZWo2Vh%0D%0A&ref_=ft_iba"
+itemprop='url'>Interest-Based Ads</a>
+</li>
+                <li class="spacer"></li>
+            </ul>
+        </div>
+    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="ft-copy float-right">
+                <a
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2016
+                <a
+href="/help/"
+>IMDb.com, Inc.</a>
+            </div>
+            <div>
+                An <span id="amazon_logo" class="footer_logo" align="middle">Amazon.com</span> company.
+            </div>
+        </div>
+
+
+
+    <table class="footer" id="amazon-affiliates">
+        <tr>
+            <td colspan="8">
+                Amazon Affiliates
+            </td>
+        </tr>
+        <tr>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-aiv&token=BCYvHfpbAqJluQujcLPZ3Tm-p-Rd4ae6W2-DDwMcMkQel0xOAc88m6Xg02qm3Z0b0ejKt3-SBr39%0D%0AyXryk-UXmPUUcz1ReXR_1hElNCVJlSxf0tuDGs_jQwkfE_JnQg38s0BN9vdyKkdbNF4VrMdLFmji%0D%0Ag6dp_6lz5QJH-f8it8qUIL6DwyMCoXmqiWyoz7ZTr1VHaKtXWVw4qyJ2nKm2y_HQCKgFW5bRaTs4%0D%0AQqRSBMDpqdI%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon Video</span><br>
+                <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-piv&token=BCYgHEyq7Bi8ft0sTDN_H0PjAA5aImyCdJ1oGj6dQp_YMeFbFsWsTlGkHtZGg3STq0gaEqasU-e2%0D%0ADWqCD_2MzvbRtS92Jw1xe27eUotNhH9Kh2u1mtqoSUozTd8F473BgbSOdR8zhhBMeN2DYF1KtIxu%0D%0A1OlrfR4lfIX-sueBarbTgSy3UXx-sRZLZqrnf9zVvGiYpw2UvzWN1LBwaJqVEdaSCSCJP7ILVStz%0D%0ARYXAFhbbGpc%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Prime Video</span><br>
+                <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-de&token=BCYrAG2Rk5-uHCgf-KwY0pWyJxIoN37yre6zzf9YkYr95XGtCiX3CLltQOKmMs152CbNm3evwAQh%0D%0AzlFq0D8JZiRfINH1pKPyUSOMWEgrOoTjwIEKtVOiPKNuDTMpfD8ry2PWdymQDIAl31ndXnqGutQk%0D%0AYvY5-oXlhiDTK25adFPGx_rTDUFWz9lCropvOBKm6ElwHkqqdbMbDkW-CkxGo_ShkLNo-RV-Qrxe%0D%0AWsgUog6kTI0%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+                <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-it&token=BCYrcwA5IO9XLOlQxCU9EQ-al2CWt3LvwEc0AXOLIAyzK0oEDv4o4uMAAEjcQfCgnDFzcC9qrnCI%0D%0Ahir8qu7o69pi4xbt6vjULdU_Gv7UzEFIbHINb07OVylfED53O_vXo8_J9RfJkVCBoZ1LQ6Two5jE%0D%0A4dPrMDbMKuhUWJ8GkTdOKQCYvkHKm5aQ24Me-GnlrLYex4rse0zWuM8dd78UTBwN8N3ZpFkDEdTb%0D%0ANRzbVkX8lSs%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+                <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-fr&token=BCYpDqmbqBIryzAQnwB5Z8W9bVnnPwmGmxDeYrYvjcARoMD18CU-zY4OGEI9jSjNiv6S2gCtfqX4%0D%0Az5dVfGbu73sIrMo-4S7MLdFRR3D1rMdGiGcmmrFctRQfd7MM6U-XSvp13Zp6V0WL3p0llCMvuIpe%0D%0ABQhWrHsM6Kj9AV-Yqnmt8qzGDnMn_01xc3XBa51mNnD0tO8T5MvLO21t-grW0DBWHN1pE4eq9x4Z%0D%0A6146e8PMFBU%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon France</span><br>
+                <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-in&token=BCYqoXVuAwyD9PbMsO2kvaWWndrBT7dRL29irCQzA6GElwgLkq29xoZYpDfyVwIj6BhTtbIWuJgR%0D%0ACrMdEJ6rDwlmdjO6nLQ6iQ63LUy5PPuLi37lDC0pCfujZOThNPlM05n0hHoc39_8sNdPmq100_RQ%0D%0AFnW4dm53aUur7aATOPEiVoeGh0FIdRqBDudxMnuH6QtHEw9F252RX_hnUAHNWvmoLf2eDX8lbbO8%0D%0AKiTWuSGa2XUQZFe7GleNfE3eFzQQli_h%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon India</span><br>
+                <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYqjxWP0MiBaPEggSUMTXRBjXQHxXs2JAgW_AGE8PUEOsgCatJ4BBxCdWZMXIc5totjUYUIFVWw%0D%0ADVYAEmNbAOaJUZatPytYoQLBsqxPSfQxwnIXEd-_OYRdyLtMLl-GoawFtZ-kuYe0FISRPgx9Pgkj%0D%0AO74i_G563dkigDGzUUJpyJs%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">DPReview</span><br>
+                <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-aud&token=BCYvKXL9rMLgGZI8lZQgGbudzjelEqhOoBhM0U_Ao95YK-ENfNvVvEF5hbkr4Bv3nEOVhmzO6g32%0D%0AD0KbdIUaZJ7QzHaKPxJLUMyE1jTfj-M-TqENLyBjaiAuObqd630mTOQx3hWgV7L1821upv96PJVa%0D%0A1jmRvJmA54G_2cKg8E3SJO8%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Audible</span><br>
+                <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+            </a>
+        </div>
+    </td>
+        </tr>
+    </table>
+      </div>
+            </div>
+        </div>
+
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/common-774728307._CB299450936_.js"></script>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-2754120180._CB298601357_.js"></script>
+
+<script type="text/javascript" id="login">
+(function(){
+    var readyTimeout = setInterval(function() {
+        if (window.jQuery && window.imdb && window.imdb.login_lightbox) {
+            clearTimeout(readyTimeout);
+            window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/title/tt4467202/");
+        }
+    }, 100);
+})();
+</script>
+
+        <script type="text/javascript">
+        function jQueryOnReady(remaining_count) {
+            if (window.jQuery) {
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4467202%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { 
+                  if (uex) { uex('ld', 'facebook_like_iframe', {wb: 1}); }
+              };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+            } else if (remaining_count > 0) {
+                setTimeout(function() { jQueryOnReady(remaining_count-1) }, 100);
+            }
+        }
+        jQueryOnReady(50);
+        </script>
+
+
+<div id="servertime" time="106"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+
+    </body>
+</html>
+
